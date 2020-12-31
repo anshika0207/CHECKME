@@ -1,0 +1,22 @@
+.topper{
+  background-image: url("image.jpg");
+  background-size: cover;
+  position: relative;
+  text-align:right;
+  padding: 100px;
+  color: white;
+  height: 800px;
+  font-family: 'Roboto', sans-serif;
+
+}
+.navbar{
+position: static;
+}
+h1{
+  font-size: 200px;
+  padding: 20px;
+}
+h2{
+  font-size: 50px;
+  padding-top: 100px;
+}
